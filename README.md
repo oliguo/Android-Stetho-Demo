@@ -9,10 +9,6 @@ study facebook stetho
 ###youtube
 <a href="https://youtu.be/4Sv99UqZrQI">link</a>
 
-###App Demo 
-<a href="https://github.com/oliguo/android-StethoDemo/blob/master/apk/app-debug.apk">Download and test</a>
-
-
 ###Reference
 <a href="https://www.mediawiki.org/wiki/API:Main_page/en" target="_blank">Wiki Api</a>
 
