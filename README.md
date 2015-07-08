@@ -6,8 +6,6 @@ study facebook stetho
 
 <img src="https://github.com/oliguo/android-StethoDemo/blob/master/screenshot/screenshot.png" width="250"/>
 
-###youtube
-<a href="https://youtu.be/4Sv99UqZrQI">link</a>
 
 ###Reference
 <a href="https://www.mediawiki.org/wiki/API:Main_page/en" target="_blank">Wiki Api</a>
